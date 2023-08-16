@@ -1,0 +1,1 @@
+Please download pem and crt files from the thingstrem.io and copy them to this folder.
