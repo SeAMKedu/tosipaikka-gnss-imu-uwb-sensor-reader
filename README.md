@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/679140475.svg)](https://zenodo.org/badge/latestdoi/679140475)
+
 ![logot](/images/tosipaikka_logot.png)
 
 # TosiPaikka - GNSS-IMU-UWB Sensor Reader
